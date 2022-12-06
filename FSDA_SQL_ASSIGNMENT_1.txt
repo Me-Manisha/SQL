@@ -1,6 +1,6 @@
                                                
                                                 SQL PROJECT - HIRING ABC COMPANY (REAL QUESTION)
-                                            Read the task very minutely fro all test cases to pass:
+                                            Read the task very minutely for all test cases to pass:
 
 --Create the following table structure in SNOWFLAKE by creating your own warehouse. Insert some 10 rows using INSERT command 
 --(check task 3 and same way insert for all task tables) in the table by trying different values for all the columns and then check using SELECT *
